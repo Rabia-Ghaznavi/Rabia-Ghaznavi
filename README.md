@@ -1,7 +1,4 @@
 
-**Rabia-Ghaznavi/rabia-ghaznavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 --><h1 align="center">Hi 👋, I'm Rabia Ghaznavi</h1>
 <h3 align="center">A Creative Web Developer,love to play with colors and brings the colors to your life/website, For me web development isn't just a job ,it's a way of life..excited to learn new programming languages, create creative websites that make difference in people's lives.</h3>
 
